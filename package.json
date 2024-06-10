@@ -18,7 +18,7 @@
     "@walletconnect/browser": "1.0.0",
     "@walletconnect/client": "1.2.2",
     "bnc-onboard": "1.14.0",
-    "ethers": "5.0.17",
+    "ethers": "5.7.2",
     "events": "3.2.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
